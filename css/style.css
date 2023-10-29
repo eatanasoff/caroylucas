@@ -1,7 +1,7 @@
 
 body{
 	font-family: 'Playfair Display', serif;
-	color: #122958;
+	color: #475A48;
 	margin: 0;
 }
 
@@ -73,7 +73,7 @@ h2{
     display: block;
     height: 1px;
     border: 0;
-    border-top: 1px solid #d3b990;
+    border-top: 1px solid #D6E5BD;
     padding: 0;
     width: 70%;
     margin: 0 auto;
@@ -83,7 +83,7 @@ h2{
     display: block;
     height: 1px;
     border: 0;
-    border-top: 1px solid #d3b990;
+    border-top: 1px solid #D6E5BD;
     padding: 0;
     width: 10%;
     margin: 0 auto;
@@ -95,7 +95,7 @@ h2{
     margin: 14px 0;
 	height: 1px;
     border: 0;
-    border-top: 1px solid #122958;
+    border-top: 1px solid #475A48;
     padding: 0;
 }
 
@@ -107,7 +107,7 @@ h2{
     margin: 14px 0;
 	height: 1px;
     border: 0;
-    border-top: 1px solid #122958;
+    border-top: 1px solid #475A48;
     padding: 0;
 }
 
@@ -179,9 +179,8 @@ h2{
 	font-size: 1em;
 	text-align: center;
 	margin: 0 auto;
-	color: #d3b990;
+	color: #D6E5BD;
 	line-height: 23px;
-    letter-spacing: 1px;
     padding: 20px;	
     width: 30%;
 }
@@ -204,9 +203,9 @@ h2{
 	font-size: 1.6em;
 	text-align: center;
 	margin: 0 auto;
-	color: white;
+	color: #475A48;
 	text-decoration: none;
-	background-color: #d3b990;
+	background-color: #D6E5BD;
 	padding: 25px;
 
 }
@@ -232,7 +231,7 @@ h2{
     display: inline-block;
     padding: 40px 0;
     min-width: 450px;
-    letter-spacing: 2px;
+    background-color: #D7E5BD;
  }
 
 .cuando_p2{
@@ -240,13 +239,13 @@ h2{
 	font-size: 1em;
 	text-align: center;
 	margin: 0;
-	color: white;	
+	color: #475A48;	
 	font-family: 'Raleway', sans-serif;
 
 }
 
 .cuando_p2 a{
-	color: white;
+	color: #475A48;
 	font-size: 1em;
 	font-style: normal;
 	font-family: 'Raleway', sans-serif;
@@ -259,7 +258,7 @@ h2{
 	font-size: 1.6em;
 	text-align: center;
 	margin: 0 0 7px;
-	color: white;
+	color: #475A48;
 }
 
 /* viaje */
@@ -281,13 +280,12 @@ h2{
 	font-size: 1em;
 	text-align: center;
 	margin: 0;
-	color: #122958;
-	line-height: 36px;
-    letter-spacing: 1px;
+	color: #475A48;
+	line-height: 24px;
 }
 
 .milion_p a {
-	color: #122958;
+	color: #475A48;
 }
 
 .milion_strong{
@@ -296,13 +294,13 @@ h2{
 	font-size: 1.6em;
 	text-align: center;
 	margin: 0;
-	color: #122958;
+	color: #475A48;
 	letter-spacing: 1px;
 }
 
 .separador_viaje{
 	width: 65%;
-    margin: -55px 0 0 -125px;
+    margin: 85px 0;
     min-width: 600px;
 }
 
@@ -319,7 +317,7 @@ h2{
 	font-size: 1em;
 	text-align: center;
 	margin: 0;
-	color: #122958;
+	color: #475A48;
 	line-height: 36px;
     letter-spacing: 1px;
     font-family: 'Raleway', sans-serif;
@@ -330,7 +328,7 @@ h2{
 	display: block;
     height: 1px;
     border: 0;
-    border-top: 1px solid #d3b990;
+    border-top: 1px solid #D6E5BD;
     padding: 0;
     width: 10%;
     margin: 30px auto;
@@ -349,7 +347,7 @@ h2{
 	font-size: 1em;
 	text-align: center;
 	margin: 0 auto;
-	color: #122958;
+	color: #475A48;
 	line-height: 23px;
     letter-spacing: 1px;
     padding: 20px;	
@@ -376,7 +374,7 @@ h2{
 	margin: 0 auto;
 	color: white;
 	text-decoration: none;
-	background-color: #122958;
+	background-color: #475A48;
 	padding: 25px;
 
 }
@@ -388,7 +386,7 @@ h2{
 
 .los_esperamos{ 
 	width: 100%;
-	background-color: #d3b990;
+	background-color: #D6E5BD;
 	padding: 80px 0; 
 }
 
@@ -416,7 +414,7 @@ h2{
     display: block;
     height: 1px;
     border: 0;
-    border-top: 1px solid #d3b990;
+    border-top: 1px solid #D6E5BD;
     padding: 0;
     width: 100%;
     margin: 0 auto;
@@ -537,14 +535,13 @@ h1 {
     padding: 40px 10px;
     min-width: initial;
     line-height: 40px;
+    background-color: #D7E5BD;
 }
 
 .cuando_p2{
 	font-size: 1em;
 	font-style: normal;
 	font-family: 'Raleway', sans-serif;
-
-
 }
 
 .cuando_p1{
@@ -563,7 +560,7 @@ h1 {
 
 .separador_viaje {
     width: 100%;
-    margin: 15px 0 0 -50px;
+    margin: 45px 0 0 -50px;
     min-width: initial;
 }
 
@@ -588,7 +585,7 @@ h1 {
     font-size: 1em;
     text-align: center;
     margin: 0;
-    color: #122958;
+    color: #475A48;
     line-height: 36px;
     letter-spacing: 1px;
 }
